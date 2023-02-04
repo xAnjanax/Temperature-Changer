@@ -5,10 +5,10 @@ Developing on the concept of incrementing and decrementing counters, this temper
 
 ## Preview 
 ### Main page 
-<img src="Temp_Changer_ss1.png"> 
+<img src="Temp_Changer_SS1.png"> 
 
 ### When the temperature exceeds 25°C 
-<img src="Temp_Changer_ss2.png"> 
+<img src="Temp_Changer_SS2.png"> 
 
 ### When the temperature is lower than 15°C 
 <img src="Temp_Changer_ss3.png"> 
